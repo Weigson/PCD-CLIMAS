@@ -1,2 +1,2 @@
 # PCD-CLIMAS
-Média do clima das capitais do Brasil
+Plotar gráficos da meédia do clima das capitais do Brasil
